@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ran Vijay</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align ="right" alt = "coding" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrBEZ2mRub2I-__QwXRxcjzJLO-ADqdGJQ4VUCTLAvXosAnaTZSyFIJIR4MFtgDFA7qc&usqp=CAU">
+<img align ="right" alt = "coding" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranvijay880&label=Profile%20views&color=0e75b6&style=flat" alt="ranvijay880" /> </p>
