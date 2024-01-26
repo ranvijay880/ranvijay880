@@ -1,3 +1,4 @@
+![logo](https://github.com/ranvijay880/ranvijay880/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ran Vijay</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
