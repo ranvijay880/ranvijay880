@@ -1,15 +1,15 @@
-![logo](https://github.com/ranvijay880/ranvijay880/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/ranvijay880/ranvijay880/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Ran Vijay</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align ="right" alt = "coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align ="right" alt = "coding" width="400" src ="https://camo.githubusercontent.com/d5e260cd2600454c2736f2c53e35d2aa65da6a9504041dece08bc943934a2eaa/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranvijay880&label=Profile%20views&color=0e75b6&style=flat" alt="ranvijay880" /> </p>
 
 - 📫 How to reach me **pk7547839186@gmail.com**
 
-- ⚡ Fun fact **I am youtuber**
+- ⚡ Fun fact **I create youtube videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
