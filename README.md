@@ -1,6 +1,11 @@
 ![logo](https://github.com/ranvijay880/ranvijay880/blob/main/github-header-image%20(3).png)
-<h1 align="center">Hi 👋, I'm Ran Vijay</h1>
+<img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+RanViay;I'm+a+Passionate+Software;+From+India;+I+love+Data+Science;Checkout+my+Projects;What+About+You?;let's+Connect!"  alt="Follow your Dreams!"/>
+</div>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
+# My small Introduction:
+
+Hi there! My name is Ran Vijay, and I am a Software Engineer. I have always been interested in technology and have a passion for creating innovative solutions to problems. In addition to Android development, I am also interested in artificial intelligence and machine learning. I am constantly seeking to improve my skills and expand my knowledge in these areas. In my free time, I enjoy tinkering with new technologies, tackling challenging problems, and contributing to open source. I am excited to continue my journey in the field of technology and am looking forward to working on interesting projects and collaborating with like-minded individuals. I'm working on NGO Nexus which will soon get open source and will be ready to help NGOs in India.
 
 <img align ="right" alt = "coding" width="400" src ="https://camo.githubusercontent.com/d5e260cd2600454c2736f2c53e35d2aa65da6a9504041dece08bc943934a2eaa/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
 
