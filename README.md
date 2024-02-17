@@ -1,7 +1,6 @@
 ![logo](https://github.com/ranvijay880/ranvijay880/blob/main/github-header-image%20(3).png)
 <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+RanViay;I'm+a+Passionate+Software;+From+India;+I+love+Data+Science;Checkout+my+Projects;What+About+You?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
 # My small Introduction:
 
